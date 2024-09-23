@@ -1,0 +1,10 @@
+[ TEACHER: Diyan Grubiyan - INFORMATICS ]
+- Vasi Kolbasi, 6, CYBER_SECURITY
+- Vanesa Ivanova, 4, DATA_SCIENCE
+
+[ TEACHER: Lyublyana Kirilova - MATHS ]
+- Vanesa Ivanova, 4, DATA_SCIENCE
+
+[ TEACHER: Sali Masali - MATHS ]
+- Malin Dodev, 3, FRONT_END_DEVELOPMENT
+

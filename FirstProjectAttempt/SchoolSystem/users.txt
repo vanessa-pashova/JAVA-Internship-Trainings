@@ -1,0 +1,7 @@
+Names: Vanya Kostova, Age: 34, Email: van@gmail.com, Password: 0123456789, Phone Number: 0889343467, Role: ADMIN
+Names: Vanesa Ivanova, Age: 10, Email: nesi@gmail.com, Password: pizzaLover2003, Phone number: 0889131340, Role: STUDENT, Grade: 4, Major: DATA_SCIENCE
+Names: Vasi Kolbasi, Age: 13, Email: vasi@gmail.com, Password: sandwiches4life, Phone number: 0874545500, Role: STUDENT, Grade: 6, Major: CYBER_SECURITY
+Names: Diyan Grubiyan, Age: 45, Email: didaka@gmail.com, Password: iLoVeCaTs20, Phone number: 0891234567, Role: TEACHER, Department: INFORMATICS
+Names: Lyublyana Kirilova, Age: 25, Email: lyub.skywalker@gmail.com, Password: trumpHaTeR18, Phone number: 0870001212, Role: TEACHER, Department: MATHS
+Names: Malin Dodev, Age: 9, Email: malin@gmail.com, Password: 12345678910, Phone number: 0887123420, Role: STUDENT, Grade: 3, Major: FRONT_END_DEVELOPMENT
+Names: Sali Masali, Age: 39, Email: sali@gmail.com, Password: turkishSofra10, Phone number: 0895566123, Role: TEACHER, Department: MATHS
