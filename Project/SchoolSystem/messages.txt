@@ -1,7 +1,0 @@
-TEACHER: Lyublyana Kirilova -> STUDENT: Vanesa Ivanova
-Absence
-May I kindly ask why wasn't I notified about your absence and what are the reasons for?
-
-STUDENT: Vanesa Ivanova -> TEACHER: Lyublyana Kirilova
-Reasons for my absence
-Hello, Mrs. Kirilova. Please, take my apologies but my dog ate my homework and I was ashamed to come today to class.
