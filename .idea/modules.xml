@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Easier/Easier.iml" filepath="$PROJECT_DIR$/Easier/Easier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Internship LeetCode.iml" filepath="$PROJECT_DIR$/.idea/Internship LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Moderate/Moderate.iml" filepath="$PROJECT_DIR$/Moderate/Moderate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SAP/SAP.iml" filepath="$PROJECT_DIR$/SAP/SAP.iml" />
+    </modules>
+  </component>
+</project>

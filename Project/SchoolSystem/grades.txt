@@ -1,0 +1,5 @@
+[Student: Vanesa Ivanova, Class: 4, Major: DATA_SCIENCE]
+- Grade from Diyan Grubiyan: 4, 2
+- Grade from Lyublyana Kirilova: 4, 6, 2
+[Student: Vasi Kolbasi, Class: 6, Major: CYBER_SECURITY]
+- Grade from Diyan Grubiyan: 5, 5
