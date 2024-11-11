@@ -7,17 +7,19 @@ public class ValidParentheses {
         Stack<Character> stack = new Stack<>();
 
         for(char symbol : s.toCharArray()) {
-            if(symbol == '(')
-                stack.push(')');
-
-            else if(symbol == '{')
-                stack.push('}');
-
-            else if(symbol == '[')
-                stack.push(']');
+            if(symbol == '(' || symbol == '{' || symbol == '[')
+                stack.push(symbol);
 
             else {
-                if(stack.isEmpty() || stack.pop() != symbol)
+                if(stack.isEmpty())
+                    return false;
+
+                char top = stack.peek();
+
+                if(symbol == ')' && top == '(' || symbol == '}' && top == '{' || symbol == ']' && top == '[')
+                    stack.pop();
+
+                else
                     return false;
             }
         }
