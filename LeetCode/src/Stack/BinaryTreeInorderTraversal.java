@@ -1,6 +1,7 @@
 package Stack;
 
 import java.util.Stack;
+import StructNodes.TreeNode;
 
 public class BinaryTreeInorderTraversal {
     public static void inorderTraversal(TreeNode root) {

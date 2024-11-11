@@ -1,12 +1,13 @@
 package Stack;
 
+import StructNodes.Node;
 import java.util.Stack;
 
 public class PalindromeLinkedList {
 
     public static boolean isPalindrome(Node<Integer> node) {
         if (node == null)
-            throw new IllegalArgumentException("Node should not be null");
+            throw new IllegalArgumentException("StructNodes.Node should not be null");
 
         if (node.next == null)
             return true;
